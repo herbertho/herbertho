@@ -40,9 +40,6 @@
   <a href="https://api.whatsapp.com/send?phone=5541997780160&text=Ol%C3%A1!%20Peguei%20seu%20n%C3%BAmero%20no%20seu%20GitHub,%20podemos%20conversar?" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="herbertho@outlook.com.br" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
 </div>
 
 ###
