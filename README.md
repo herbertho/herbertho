@@ -47,7 +47,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/herbertho/herbertho/blob/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/herbertho/herbertho/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
