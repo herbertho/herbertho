@@ -43,7 +43,7 @@
 </div>
 
 ###
-<div align="center">
-![snake gif](https://github.com/herbertho/herbertho/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+  ![snake gif](https://github.com/herbertho/herbertho/blob/output/github-contribution-grid-snake.svg)
+
 ###
