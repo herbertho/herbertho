@@ -43,16 +43,7 @@
 </div>
 
 ###
-
-![snake gif](https://github.com/herbertho/herbertho/blob/output/github-contribution-grid-snake.svg)
-
-###
-
 <div align="center">
-  <a href="https://open.spotify.com/user/https://open.spotify.com/user/12145766954">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-  </a>
+![snake gif](https://github.com/herbertho/herbertho/blob/output/github-contribution-grid-snake.svg)
 </div>
-
 ###
-Profile Readme Generator
