@@ -1,3 +1,40 @@
+
+<h1 align="center">Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, eu sou o Herbert </h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+em+forma%C3%A7%C3%A3o;sempre+em+constante+desenvolvimento+pessoal)](https://git.io/typing-svg)
+
+<img align="left" src="https://cdn.picrew.me/shareImg/org/202212/644129_MKvsvCBv.png" width="320px"> Após muitas reviravoltas na minha vida, troca de carreira, troca de curso, foco em outras coisas, me decidi a enfrentar o caminho mais desafiador e não o mais fácil. Estudando desenvolvimento Full Stack, querendo descobrir mais sobre a vida, conhecer lugares novos, pessoas novas e principalmente, me desenvolver como pessoa, cursando Análise e Desenvolvimento de Sistemas e me especializando em Full Stack com o incrível curso da Trybe, virar uma pessoa desenvolvedora de software é meu objetivo para o futuro.
+
+**********
+<div align="left">
+🌱 Atualmente, estou aprendendo e estudando a parte Front-End para após, seguir em Back-End
+💬 Posso responder perguntas sobre <strong>HTML, CSS, JavaScript e React</strong><br>
+⚡ Fun fact <strong>Sou um afíccionado por teclados mecanicos, pretendo logo montar o meu full custom</strong></h4> 
+</div>
+
+***************	
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=herbertho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=herbertho&layout=compact&langs_count=8&theme=dark"/>
+<div>	
+	
+	
+<h3 align="center">Linguagens e Ferramentas:</h3>
+<p align="center"><img height="40" width="40" src="https://cdn.simpleicons.org/css3/000000" /> <img height="40" width="40" src="https://cdn.simpleicons.org/html5/000000"/> <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/000000"/> <img height="40" width="40" src="https://cdn.simpleicons.org/react/000000"/> <img height="40" width="40" src="https://cdn.simpleicons.org/npm/000000"/> <img height="40" width="40" src="https://cdn.simpleicons.org/jest/000000"/> <img height="40" width="40" src="https://cdn.simpleicons.org/ubuntu/000000"/></p></div>
+</div>
+
+*******************
+
+<h3 align="center">Entre em contato:</h3>
+<p align="center"><img src="https://custom-icon-badges.demolab.com/badge/herbertho@outlook.com.br-000000?style=for-the-badge&logo=mention&logoColor=white"> 
+<a href="https://linkedin.com/in/herberthodev" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/herbert_ho" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
+
+------------------------------------------------------------------------------------------------
+
 <br clear="both">
 
 <h1 align="center">Bem vindo ao meu perfil!💻👨🏻‍💻</h1>
