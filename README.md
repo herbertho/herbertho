@@ -27,7 +27,7 @@
 *******************
 
 <h3 align="center">Entre em contato:</h3>
-<a href="https://api.whatsapp.com/send?phone=5541997780160&text=Ol%C3%A1!%20Peguei%20seu%20n%C3%BAmero%20no%20seu%20GitHub,%20podemos%20conversar?" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-Whatsapp-8B8989?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<p align="center"><a href="https://api.whatsapp.com/send?phone=5541997780160&text=Ol%C3%A1!%20Peguei%20seu%20n%C3%BAmero%20no%20seu%20GitHub,%20podemos%20conversar?" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-Whatsapp-8B8989?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://linkedin.com/in/herberthodev" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-8B8989?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/herbert_ho" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-Instagram-8B8989?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
