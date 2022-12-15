@@ -9,7 +9,6 @@
 <div align="left">
 🌱 Atualmente, estou aprendendo e estudando a parte Front-End<br>
 💬 Posso responder perguntas sobre <strong>HTML, CSS, JavaScript e React</strong><br>
-⚡ Fun fact <strong>Sou um afíccionado por teclados mecanicos, pretendo logo montar o meu full custom</strong></h4> 
 </div>
 
 ***************	
