@@ -30,10 +30,3 @@
 <a href="https://linkedin.com/in/herberthodev" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-8B8989?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/herbert_ho" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-Instagram-8B8989?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
-
-###
-<div align="center">
-  
-  ![snake gif](https://github.com/herbertho/herbertho/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
